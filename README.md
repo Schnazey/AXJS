@@ -2,4 +2,4 @@
 
 Future home to the AXJS (AI Experience Javascript Framework).
 
-Actively looking for colaborators.
+Actively looking for collaborators.
